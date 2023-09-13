@@ -3,15 +3,12 @@
 #container{
 	margin:20px;
 	position:relative;
-	color:#f00;
 	font-size:30px;
 }
 .text{
 	font-size:20px;
-
 }
-.text-1{
-	font-size:30px;
+#container b{
 	color:#f00;
 }
 
